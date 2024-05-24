@@ -20,7 +20,7 @@
   },
   "version": "17.3.0",
   "frameworks": {
-    "mbed": {
+    "": {
       "package": "framework-mbed",
       "script": "builder/frameworks/mbed.py",
       "description": "Arm Mbed OS is an open source embedded operating system designed specifically for the 'things' in the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices",
@@ -214,7 +214,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "~4.1.1"
+      "version": "~4.1.3"
     },
     "framework-stm32cubef0": {
       "type": "framework",
